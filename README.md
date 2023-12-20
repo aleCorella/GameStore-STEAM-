@@ -14,25 +14,25 @@ GameStore is a web application that replicates the functionality of an online ga
 ## Screenshots
 
 ### Authentication Screens
-![Login]([enlace-a-screenshot-login.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232840449.png?alt=media&token=a53b85d4-cb78-4227-97b6-ab53d4d014f7)
+![Login](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232840449.png?alt=media&token=a53b85d4-cb78-4227-97b6-ab53d4d014f7)
 
 ![Signup](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232850077.png?alt=media&token=511466c1-6f71-4b68-8c9b-8dc18a7f3280)
 
 ### Lobby
-![Lobby]([enlace-a-screenshot-lobby.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232609351.png?alt=media&token=00897625-36ba-4dd5-85fc-5b2f32b1f168)
+![Lobby](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232609351.png?alt=media&token=00897625-36ba-4dd5-85fc-5b2f32b1f168)
 
 ### Filtering
 ![Filtering 1](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232619291.png?alt=media&token=fc7433cd-03af-4ca6-89bd-cecfa4035836)
 ![Filtering 2](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232639835.png?alt=media&token=f435df01-7248-4a94-b841-fb29ca6d3a93)
 
 ### Shopping Cart
-![Shopping Cart]([enlace-a-screenshot-cart.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232726129.png?alt=media&token=be7975c9-fcb8-4af0-aaf8-add61085149e)
+![Shopping Cart](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232726129.png?alt=media&token=be7975c9-fcb8-4af0-aaf8-add61085149e)
 
 ### Checkout
-![Checkout]([enlace-a-screenshot-checkout.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232823407.png?alt=media&token=37067ebd-a79c-490e-9d74-bf0cb2f3f807)
+![Checkout](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232823407.png?alt=media&token=37067ebd-a79c-490e-9d74-bf0cb2f3f807)
 
 ### Admin - Add Product
-![Add Product]([enlace-a-screenshot-add-product.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_233018040.png?alt=media&token=03ea26b3-d35e-4eb9-a0e1-369c6487ab2b)
+![Add Product](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_233018040.png?alt=media&token=03ea26b3-d35e-4eb9-a0e1-369c6487ab2b)
 
 ## Technologies Used
 - HTML
