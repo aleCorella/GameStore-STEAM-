@@ -1,6 +1,6 @@
 # GameStore
 
-![GameStore Logo](enlace-a-tu-logo.png)
+![GameStore Logo](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_234026654.png?alt=media&token=69748eac-1831-4865-9a52-555fd00a3ef5)
 
 ## Description
 
@@ -16,7 +16,8 @@ GameStore is a web application that replicates the functionality of an online ga
 ## Screenshots
 
 ### Authentication Screens
-![Login]([enlace-a-screenshot-login.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232840449.png?alt=media&token=a53b85d4-cb78-4227-97b6-ab53d4d014f7))
+![Login]([enlace-a-screenshot-login.png](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232840449.png?alt=media&token=a53b85d4-cb78-4227-97b6-ab53d4d014f7)
+
 ![Signup](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_232850077.png?alt=media&token=511466c1-6f71-4b68-8c9b-8dc18a7f3280)
 
 ### Lobby
