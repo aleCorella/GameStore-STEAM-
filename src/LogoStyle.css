@@ -1,0 +1,140 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  .logo{
+    margin: 20px 0px 0px 10px;
+  }
+  .leftside {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rightside {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    margin-right: 10px;
+  }
+  
+  .navlink {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .user-profile {
+    margin-right: 15px;
+  }
+  
+  .logout-btn {
+    cursor: pointer;
+    padding: 8px 12px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+  }
+  
+  .cart-menu-btn {
+    margin-right: 15px;
+    cursor: pointer;
+  }
+  
+  .cart-indicator {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+  }
+  
+  .buttonBuy {
+    background-color: #4CAF50; /* Color de fondo del botón */
+    color: white; /* Color del texto del botón */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño de fuente del texto del botón */
+    border: none; /* Elimina el borde del botón */
+    border-radius: 5px; /* Añade bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    transition: background-color 0.3s ease; /* Agrega una transición suave al color de fondo */
+  }
+  
+  button:hover {
+    background-color: #45a049; /* Cambia el color de fondo al pasar sobre el botón */
+  }
+
+  .container {
+    margin-top: 50px;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  .card{
+    margin-right: 600px;
+  }
+  .card-body {
+    padding: 30px;
+    background-color: #000 !important;
+  }
+  
+  .nav-pills .nav-link {
+    border-radius: 5px;
+  }
+  
+  .tab-content {
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    width: 100%;
+  }
+  
+  .input-group-append {
+    cursor: pointer;
+  }
+
+  .form-control {
+    border-radius: 5px;
+    background-color: #fff; /* Fondo blanco */
+    color: #fff !important; /* Texto negro */
+    background-color: #000 !important;
+  }
+ 
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .alert {
+    margin-bottom: 20px;
+  }
+  
+  .fa-question-circle {
+    margin-left: 5px;
+  }
+  
+  @media (max-width: 576px) {
+    .card {
+      margin-top: 20px;
+      align-items: center;
+    }
+  }
+  
