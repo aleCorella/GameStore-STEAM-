@@ -1,7 +1,5 @@
 # GameStore
 
-![GameStore Logo](https://firebasestorage.googleapis.com/v0/b/projectofinalapps.appspot.com/o/Programa-Imagenes%2Fimagen_2023-12-19_234026654.png?alt=media&token=69748eac-1831-4865-9a52-555fd00a3ef5)
-
 ## Description
 
 GameStore is a web application that replicates the functionality of an online gaming platform like Steam. It allows users to explore and purchase video games, manage their cart, and more.
