@@ -55,7 +55,7 @@ GameStore is a web application that replicates the functionality of an online ga
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/YourUsername/YourRepository.git
+    git clone https://github.com/aleCorella/GameStore-STEAM-.git
     ```
 
 2. Navigate to the project directory.
